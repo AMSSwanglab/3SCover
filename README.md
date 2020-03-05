@@ -1,2 +1,2 @@
 # 3SCover
-All data and code involoved in 3Scover.
+3SCover is a method to identify safeguard TF.
